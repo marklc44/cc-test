@@ -1,0 +1,7 @@
+// WP_Query arguments
+$args = array(
+  ,
+);
+
+// The Query
+$query = new WP_Query( $args );
